@@ -1,2 +1,3 @@
 # blueprint
-Grida Blueprint is open 3D printing solution.
+Grida Blueprint is open, fully automized 3D printing solution.
+
